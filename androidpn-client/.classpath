@@ -5,7 +5,8 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="src" path="asmack"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry kind="lib" path="libs/litepal-1.2.1-src.jar"/>
-	<classpathentry kind="lib" path="libs/volley.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/litepal-1.2.1-src.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/volley.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
